@@ -1,0 +1,143 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #F3F5FC;
+  }
+  
+  p {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    margin-left: 6em;
+    
+  }
+  
+  .container {
+    margin: auto;
+    width: 960px;
+    height: 580px;
+    padding: 5px;
+  }
+  
+  .logo {
+    width: 100%;
+    float: left;
+  }
+  
+  .left {
+    float: left;
+    width: 70%;
+    height: 63%;
+    border-radius: 24px;
+  }
+  
+  .right {
+    float: right;
+    width: 30%;
+    height: auto;
+    border-radius: 24px;
+    background: white;
+  }
+  
+  .left-button {
+    width: 70%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .logoImg {
+    margin-top: 1%;
+    float: inherit;
+    margin-left: 5%;
+  }
+  
+  .tittle {
+    float: inherit;
+    margin-left: 20%;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    color: #0A3871;
+  }
+  
+  .text-input {
+    float: left;
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 80%;
+    height: 80%;
+    font-family: 'Inter', sans-serif;
+    color: #0A3871;
+    font-weight: bold;
+    font-size: 30px;
+    border: none;
+    outline: none;
+    background: F3F5FC;
+  }
+  
+  #imgRight {
+    margin-left: 2%;
+    margin-top: 20%;
+    width: 90%;
+    height: auto;
+  }
+  
+  #text1 {
+    margin-left: 7%;
+    margin-right: 5%;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    color: #0A3871;
+  }
+  
+  #text2 {
+    width: 226px;
+    height: 90px;
+    float: left;
+    margin-left: 10%;
+    color: #000000;
+    border: none;
+    outline: none;
+    font-size: 15px; 
+    border-radius: 5px;  
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  #btn-encriptar {
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 15%;
+    background: #0A3871;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+  }
+  
+  #btn-desencriptar {
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 15%;
+    background: #D8DFE8;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+  }
+  
+  #copy {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    margin-left: 33%;
+    margin-top: 90%;
+    padding: 24px;
+    width: 40%;
+    height: 10%;
+    background: #D8DFE8;
+    border-radius: 24px;
+    display: none;
+  }
+  
+
+
+ 
